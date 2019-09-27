@@ -57,20 +57,20 @@ table {
     background-color: lightblue;
 }
 
-.main-header {
+.top-section {
     border: 1px solid red;
     height: 300px;
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 
-.main-header {
+.middle-section {
     border: 1px solid red;
     height: 300px;
-    background-color: lightblue;
+    background-color: lightpink;
 }
 
-.main-header {
+.bottom-section {
     border: 1px solid red;
     height: 300px;
-    background-color: lightblue;
+    background-color: lightyellow;
 }
